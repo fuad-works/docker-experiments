@@ -1,2 +1,2 @@
 # Docker Experiments
-My docker training
+My docker training, part of a course
